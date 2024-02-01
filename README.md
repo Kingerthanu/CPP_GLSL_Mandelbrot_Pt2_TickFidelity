@@ -7,6 +7,7 @@ This program helped educate me on uniforms and GLSL optimizations. It also infor
 as well as helped me find good usages for previously shelved things like triangle_fan.
 Also try being aware we are using a constant tick incremental for our fidelity so over a long time we may see some overflow as I didn't implement checks for this
 it shouldn't overly stress runtime as we should gradually use less of our GPU the longer we zoom as we will lose more individual pixels.
+We again will be using libraries held in (https://github.com/Kingerthanu/CPP_CellularAutomata_stage1).
 
 <img width="802" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/3caa73f5-4712-4f1e-a48f-891cabed6b5e">
 
