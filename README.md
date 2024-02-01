@@ -14,3 +14,4 @@ We again will be using libraries held in (https://github.com/Kingerthanu/CPP_Cel
 ![tripToRotate](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/3c08a0df-2f95-4248-9bfb-e5fd2c903fb1)
 <img width="869" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/765f912a-b866-47c3-917c-ceaa2fe1f2f4">
 
+![spinnyTuberHeimer-ezgif com-optimize (3)](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/79a2f3b4-4dc3-4f1c-8c6f-ced4daf6f90c)
