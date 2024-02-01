@@ -7,6 +7,8 @@ This program helped educate me on uniforms and GLSL optimizations. It also infor
 as well as helped me find good usages for previously shelved things like triangle_fan.
 
 <img width="802" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/3caa73f5-4712-4f1e-a48f-891cabed6b5e">
-![tripToRotate](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/4eaf04ef-0045-4287-a849-79fa56847fbc)
+
+![tripToRotate](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/3c08a0df-2f95-4248-9bfb-e5fd2c903fb1)
+
 <img width="869" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/765f912a-b866-47c3-917c-ceaa2fe1f2f4">
 
