@@ -4,7 +4,7 @@ changed some constant variables to help with the pulsing push-through of colors.
 be mindful of the eye strain this can and probably will give. _tickTimer controls our zoom and rate of change, while _tick does
 fidelity. 
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/c854a82c-0a2b-41a9-8b3f-ae17b70548dc" alt="Cornstarch <3" width="95" height="99">
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/c854a82c-0a2b-41a9-8b3f-ae17b70548dc" alt="Cornstarch <3" width="45" height="49">
 
 This program helped educate me on uniforms and GLSL optimizations. It also informed me on nuances with sin to give sudo-dynamic color patterns
 as well as helped me find good usages for previously shelved tools in OpenGL like triangle_fan.
