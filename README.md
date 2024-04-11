@@ -15,8 +15,8 @@ We again will be using libraries held in (https://github.com/Kingerthanu/CPP_Cel
 
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/2f67082f-9155-40b2-b094-8ba892b90672" alt="Cornstarch <3" width="55" height="49">
 
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/d7d34a00-aea1-4012-a142-7ec5ee62c3c1" alt="Cornstarch <3" width="55" height="49"> 
 
 
 **The Breakdown:**
@@ -36,11 +36,11 @@ This Program Starts In Our C++ Driver But This Works To Create Our Shader With O
 I Loved This Project As It Was Super Cool And Helped Really Solidify GPU Coding And How It Works Under The Hood Much More. Instead Of Focusing More On The VBO And All Those Problems, Focusing JUST On The Shading Program Made ME Realize Actually How Powerful It Can Be If We Can Properly Divert Traffic To It For Quick Crunching Of Data For Both Parts Of Our Pipeline. Also Creating These Low-Resistance Functions To "Shade" Our Specific Pixels Is Very Interesting To See From A Traditionally Single Thread Design Principle On Program. While A Lot Of Other Improvements Could Be Seen On The Fidelity Slider And Other Variables It Still Is In Such A Functional State And If Anything Will Do Small Fixes Like Increasing Resolution More To Infininty As Well As Adding Rotation.
  
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/eac58592-6933-4190-a02e-d6ae87d16243" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/5a500dfd-7e30-40ea-9912-05faaa71dcdf" alt="Cornstarch <3" width="55" height="49"> 
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot/assets/76754592/d408b7c2-4a1d-41eb-bc7d-89a33eda76ae" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/91b53912-4062-4d35-99da-da91c685ba0a" alt="Cornstarch <3" width="55" height="49"> 
 
 
 **Features:**
@@ -51,3 +51,7 @@ I Loved This Project As It Was Super Cool And Helped Really Solidify GPU Coding 
 <img width="869" alt="image" src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/765f912a-b866-47c3-917c-ceaa2fe1f2f4">
 
 ![spinnyTuberHeimer-ezgif com-optimize (3)](https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/79a2f3b4-4dc3-4f1c-8c6f-ced4daf6f90c)
+
+
+<img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/56ba9c9a-3b93-4f98-a7da-e7449a91215b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/56ba9c9a-3b93-4f98-a7da-e7449a91215b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/56ba9c9a-3b93-4f98-a7da-e7449a91215b" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_GLSL_Mandelbrot_Pt2_TickFidelity/assets/76754592/56ba9c9a-3b93-4f98-a7da-e7449a91215b" alt="Cornstarch <3" width="55" height="49">
+
